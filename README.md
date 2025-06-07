@@ -1,1 +1,7 @@
-# Tutedude Assignment-1
+# Tutedude Assignments
+## Tutedude Assignment-1:
+Basic Python Concepts
+Task 1: Perform Basic Mathematical Operations
+Task 2: Create a Personalized Greeting
+
+
