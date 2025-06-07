@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 '''
 Task 1: Perform Basic Mathematical Operations
 
