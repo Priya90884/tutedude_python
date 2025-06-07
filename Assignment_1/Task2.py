@@ -4,10 +4,8 @@ Task 2: Create a Personalized Greeting Problem Statement: Write a Python program
 '''
 #Takes a user's first name and last name as input.
 
-print("Enter your First name ")
-a=input()
-print ("Enter your last name")
-b= input()
+a=input("Enter your First name :")
+b= input("Enter your last name :")
 
 #Concatenated the first name and last name into a full name.
 

@@ -6,10 +6,8 @@ Problem Statement: Write a Python program that does the following:
 '''
 #1.  Takes two numbers as input from the user.
 
-print("Enter The fist number")
-a=int(input())
-print("Enter The Second number")
-b=int(input())
+a=int(input("Enter The fist number :"))
+b=int(input("Enter The Second number :"))
 
 #2.  Performs the basic mathematical operations on thes:e two numbers:
 
